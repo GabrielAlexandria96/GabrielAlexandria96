@@ -1,6 +1,6 @@
 # Gabriel Alexandria — QA Engineer
 
-**Analista de Qualidade de Software** com 1,5 ano de experiência em testes manuais, automação e API testing. Formado em Ciência da Computação (UNIFACS). Baseado em Salvador, Bahia.
+**Analista de Qualidade de Software** com 2 anos de experiência em testes manuais, automação e API testing. Formado em Ciência da Computação (UNIFACS). Baseado em Salvador, Bahia.
 
 Trabalho com o ciclo completo de QA dentro de times ágeis: do planejamento de testes à automação de regressão, passando por testes exploratórios, validação de APIs e análise de dados.
 
