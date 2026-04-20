@@ -8,12 +8,13 @@ Trabalho com o ciclo completo de QA dentro de times ágeis: do planejamento de t
 
 ## Stack
 
-**Automação:** Cypress · Playwright · Page Object Model  
+**Automação:** Cypress · Playwright · Page Object Model (POM) 
 **API Testing:** Postman · Swagger · REST · JSON  
-**Banco de Dados:** PostgreSQL · MySQL · SQL (JOINs, SELECTs)  
+**Banco de Dados:** MySQL · SQL 
 **Ferramentas:** Jira · Git · n8n · Jenkins (CI/CD)  
-**Mobile:** Android · APK · .NET MAUI  
-**Metodologia:** Scrum · Kanban · SDLC
+**Mobile:** Android · APK · Web  
+**Metodologia:** Scrum · Kanban
+**Linguagens:** JavaScript · TypeScript · Python
 
 ---
 
