@@ -20,7 +20,7 @@ Trabalho com o ciclo completo de QA dentro de times ágeis: do planejamento de t
 
 ## Projetos em destaque
 
-### [https://github.com/GabrielAlexandria96/qa-automation-challenge-cypress](https://github.com/GabrielAlexandria96/qa-automation-challenge-cypress) 
+### [qa-automation-challenge-cypress](https://github.com/GabrielAlexandria96/qa-automation-challenge-cypress](https://github.com/GabrielAlexandria96/qa-automation-challenge-cypress) 
 Projeto desenvolvido para desafio técnico de Analista de QA/Teste Pleno, cobrindo automação UI e API com Cypress. Inclui fluxo E2E de compra com registro durante checkout, validação de contrato com AJV, geração dinâmica de dados com Faker, aplicação de Page Object Model (POM), edge cases, BDD e bug reports documentados com evidências visuais.
 
 ### [QA Testing Portfolio](https://github.com/GabrielAlexandria96/QA-Testing-Portfolio)
